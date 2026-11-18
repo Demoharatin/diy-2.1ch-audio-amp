@@ -23,3 +23,11 @@
 ### Збірка в 3D-корпусі (Onshape)
 <img width="1366" height="768" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/ecfbb77a-99e8-4d7a-8323-6aaaba63cf77" />
 <img width="1366" height="768" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/c8624f07-5975-426e-a9c5-72b00670a769" />
+
+
+
+<img width="4640" height="3472" alt="IMG_20261118_221826_902" src="https://github.com/user-attachments/assets/b6fec61a-eb5b-4e6d-a6ce-c67614f09e30" />
+<img width="3472" height="4640" alt="IMG_20261118_221836_633" src="https://github.com/user-attachments/assets/0d2b29d2-6870-4647-afc9-3af50cbd208e" />
+<img width="3472" height="4640" alt="IMG_20261118_221840_781" src="https://github.com/user-attachments/assets/f30b74d4-3d6a-426c-bd81-54514ef0ebc4" />
+<img width="4640" height="3472" alt="IMG_20261118_221846_792" src="https://github.com/user-attachments/assets/ec0fc20b-9590-41ac-8939-bc7b1048f1ee" />
+
